@@ -1,6 +1,6 @@
 # yeju hwang🐬
 [![Gmail bedge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:dpwn9701@gmail.com)
-[![Tistory](https://img.shields.io/badge/Tech%20Blog-555263?style=flat-square&logo=tistory&logoColor=white)](https://xx.tistory.com/)
+[![Tistory](https://img.shields.io/badge/Tech%20Blog-555263?style=flat-square&logo=tistory&logoColor=white)](https://yeapiii-log.tistory.com)
 
 
 ## 📑About Me
