@@ -4,12 +4,16 @@
 
 
 ## 📑About Me
-* *Python / Django Backend Developer*
-* B2B 웹 애플리케이션 개발 및 유지보수 경험
+***Backend Developer***
+* 작은 경험 하나에서도 배우며 꾸준히 성장하는 개발자
+* Python과 Django를 중심으로 B2B 웹 애플리케이션을 개발
+
+## 🎓Education
+* 2016.03 ~ 2021.08 *Dongduk Women's University, Japanese* 학사
 
 ## 💼Experience
-* 🏢 *Globalway Inc.(2022.04~2025.05)* 
-* 🎓 *Dongduk Women's University, Japanese (2016.03~2021.08)*
+* 2022.04~2025.05 *Globalway Inc.* 웹 백엔드
+    * Python, Django 등 활용 일본 B2B 웹 애플리케이션 개발 및 유지보수 경험
 
 
 ## 👩‍💻Tech Stack
